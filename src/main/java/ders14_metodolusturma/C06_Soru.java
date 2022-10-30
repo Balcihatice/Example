@@ -1,6 +1,4 @@
-package ders14_metodolusturme;
-
-import java.util.Scanner;
+package ders14_metodolusturma;
 
 public class C06_Soru {
     /*

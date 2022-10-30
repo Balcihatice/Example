@@ -1,4 +1,4 @@
-package ders14_metodolusturme;
+package ders14_metodolusturma;
 
 public class C05_SubstringOlustur {
     /*

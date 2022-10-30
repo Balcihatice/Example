@@ -1,4 +1,4 @@
-package ders14_metodolusturme;
+package ders14_metodolusturma;
 
 public class Co7_AsalSayiKontrol {
     public static void main(String[] args) {

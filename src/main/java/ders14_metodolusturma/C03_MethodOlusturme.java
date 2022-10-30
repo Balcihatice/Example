@@ -1,4 +1,4 @@
-package ders14_metodolusturme;
+package ders14_metodolusturma;
 
 public class C03_MethodOlusturme {
     public static void main(String[] args) {

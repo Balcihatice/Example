@@ -1,6 +1,4 @@
-package ders14_metodolusturme;
-
-import ders14_metodolusturme.C03_MethodOlusturme;
+package ders14_metodolusturma;
 
 public class C04_TekrarMethod {
     public static void main(String[] args) {
