@@ -1,6 +1,6 @@
 package ders20_multidimensionalArray;
 
-import ders18_arrays.C06_KullaniciyaaAarrayOlusturma;
+import ders18_arrays.C06_KullaniciyaArrayOlusturtma;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,7 +13,7 @@ public class C09_ArrayList {
         Scanner scan = new Scanner(System.in);
 
         // object olusturmek istedigimizde Method kullandik
-        C06_KullaniciyaaAarrayOlusturma obj1 = new C06_KullaniciyaaAarrayOlusturma();
+        C06_KullaniciyaArrayOlusturtma obj1 = new C06_KullaniciyaArrayOlusturtma();
 
         //  List`lerden object olustururken dikkat edilecekler:
         //  i) List primitive data kabul etmez

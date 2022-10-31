@@ -16,7 +16,7 @@ public class C06_ArrayeYeniDegerAtama {
       Var olan bir Arrayin uzunlugu degistirilemez
       AMA
       Varolan bir array`e yeni bir deger atanabilir
-      i) Var olan array``i yeni deger olarak atayabiliriz
+      i) Var olan array`e yeni deger olarak atayabiliriz
 
  */
         arr1 = arr2;

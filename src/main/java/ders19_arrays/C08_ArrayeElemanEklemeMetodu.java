@@ -2,7 +2,7 @@ package ders19_arrays;
 
 import java.util.Arrays;
 
-public class C08_ArreyeElemanEklemeMetodu {
+public class C08_ArrayeElemanEklemeMetodu {
     //Verilen bir int arraye istenen bir elemenyi ekleyin.
     //yeni halini bize donduren bir method olusturun.
 

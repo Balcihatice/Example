@@ -3,7 +3,7 @@ package ders18_arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class C06_KullaniciyaaAarrayOlusturma {
+public class C06_KullaniciyaArrayOlusturtma {
     /*
     Kullanicidan array`in Boyutunu ve elementlerini alip,
     Array`i olusturan ve bize donduren bir metod olusturunuz.

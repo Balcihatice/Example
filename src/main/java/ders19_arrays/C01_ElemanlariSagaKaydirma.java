@@ -1,9 +1,8 @@
 package ders19_arrays;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 
-public class C01_ElemanlariSaagaKaydirma {
+public class C01_ElemanlariSagaKaydirma {
 
      /*
      Verilen bir Array`deki tum elementleri bir saga kaydirip,

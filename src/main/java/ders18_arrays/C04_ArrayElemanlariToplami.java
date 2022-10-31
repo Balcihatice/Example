@@ -1,6 +1,6 @@
 package ders18_arrays;
 
-public class C04_ArrayElemanlaritoplami {
+public class C04_ArrayElemanlariToplami {
     public static void main(String[] args) {
         /*
         soru2)
