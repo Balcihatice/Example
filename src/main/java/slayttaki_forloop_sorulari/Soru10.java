@@ -3,7 +3,6 @@ package slayttaki_forloop_sorulari;
 public class Soru10 {
     public static void main(String[] args) {
 
-
         // Soru 10 (interview)- Kullanicidan bir String isteyin ve String’i tersine ceviri kaydedin.
 
         StringBuffer yeniKelime = new StringBuffer("Rose");

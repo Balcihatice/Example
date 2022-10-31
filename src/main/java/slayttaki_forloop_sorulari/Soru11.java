@@ -3,6 +3,7 @@ package slayttaki_forloop_sorulari;
 import java.util.Scanner;
 
 public class Soru11 {
+
     //Soru 11- Kullanicidan bir pozitif sayi isteyin,
             // sayının tam kare olup olmadığını bulunuz,
            // tamkare ise true değilse false yazdırınız..
